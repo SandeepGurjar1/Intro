@@ -1,0 +1,43 @@
+body{
+    background-color: #8458B3;
+    padding: 3em;
+    border-radius: 2em;
+   
+}
+html{
+    background-color: aliceblue;
+}
+.img{
+    margin-top: 2em;
+    height: 20em;
+    width: 20em;
+    margin-left: 25em;
+    border-radius: 1.5em;
+}
+.nav{
+    font-size: 20px;
+    border: 1.5px solid rgb(80, 43, 43);
+    border-radius: 10px;
+    background-color: #7c7cc1;
+    
+    
+}
+.navele{
+    margin-left: 12em;
+    text-decoration: none;
+    
+}
+.navele:hover{
+    background-color: #117e94;
+    color: rgb(0, 255, 187);
+}
+.name{
+    text-align: center;
+}
+footer{
+    font-size: 20px;
+    text-align: center;
+}
+.ab{
+    font-size: 22px;
+}
